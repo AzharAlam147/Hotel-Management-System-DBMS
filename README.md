@@ -16,6 +16,12 @@ Microsoft Sql Database
 2. SignUp
 3. Hotel Booking
 
+# Template
+all html,css,bootstrap files are in "a" folder.
+
+# Video
+Video of running project is in the folder
+
 # GUI
 ![6](https://user-images.githubusercontent.com/73800301/226434841-1db9ebd6-cab1-4b5e-8d26-7b362331bf3a.PNG)
 ![1](https://user-images.githubusercontent.com/73800301/226434847-b45b778f-f468-4208-b94d-9328b10cad10.PNG)
@@ -24,6 +30,4 @@ Microsoft Sql Database
 ![4](https://user-images.githubusercontent.com/73800301/226434861-8b688412-3d80-4f00-a2fa-7856bf263f77.PNG)
 ![5](https://user-images.githubusercontent.com/73800301/226434863-da142ca6-03b2-4d58-b779-83e5f75fceb2.PNG)
 
-# Template
-all html,css,bootstrap files are in "a" folder.
 
