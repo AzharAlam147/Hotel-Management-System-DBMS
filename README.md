@@ -31,6 +31,6 @@ Video of running project is in the folder
 ![2](https://user-images.githubusercontent.com/73800301/226434851-ed07f512-2e40-4c08-a8aa-f96fcdbd8e0e.PNG)
 ![3](https://user-images.githubusercontent.com/73800301/226434855-0c572c97-ebde-4778-8f2b-54c640e8bfdb.PNG)
 ![4](https://user-images.githubusercontent.com/73800301/226434861-8b688412-3d80-4f00-a2fa-7856bf263f77.PNG)
-![5](https://user-images.githubusercontent.com/73800301/226434863-da142ca6-03b2-4d58-b779-83e5f75fceb2.PNG)
+
 
 
